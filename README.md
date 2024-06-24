@@ -1,4 +1,19 @@
-## Hi there 👋
+## Hi / Cześć 👋
+
+#### 👨‍💻 I am Martin, Senior iOS Developer at 🔴 [Intent](https://withintent.com).
+
+On a daily basis, I build iOS apps from A to the AppStore. I take responsibility for designing the app architecture, picking the right tools and frameworks for the project, configuring the tooling, and setting up CI/CD.
+
+### 🔨 Tech stack
+
+* Swift, Objective-C, Objective-C++
+* MVVM, MVC, MVP, Modular architecture
+* SwiftUI, UIKit
+* Combine, RxSwift, Async/Await
+* CoreBluetooth, CoreLocation, SwiftCharts, GraphQL, Firebase, In-app purchases
+* XCTest, Quick+Nimble
+* SPM, Cocoapods, Fastlane, Tuist, GHA, TestFlight, Localazy
+
 
 <!--
 **marcinbiedawi/marcinbiedawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

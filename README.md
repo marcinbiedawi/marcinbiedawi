@@ -1,6 +1,6 @@
 ## Hi / Cześć 👋
 
-#### 👨‍💻 I am Martin, Senior iOS Developer at 🔴 [Intent](https://withintent.com).
+#### 👨‍💻 I am Martin, Senior iOS Developer, cooperating with 🔴 [Intent](https://withintent.com).
 
 On a daily basis, I build iOS apps from A to the AppStore. I take responsibility for designing the app architecture, picking the right tools and frameworks for the project, configuring the tooling, and setting up CI/CD.
 

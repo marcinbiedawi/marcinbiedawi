@@ -4,7 +4,7 @@
 
 On a daily basis, I build iOS apps from A to the AppStore. I take responsibility for designing the app architecture, picking the right tools and frameworks for the project, configuring the tooling, and setting up CI/CD.
 
-### 🔨 Tech stack
+#### 🔨 Technologies I use
 
 * Swift, Objective-C, Objective-C++
 * MVVM, MVC, MVP, Modular architecture
@@ -14,6 +14,9 @@ On a daily basis, I build iOS apps from A to the AppStore. I take responsibility
 * XCTest, Quick+Nimble
 * SPM, Cocoapods, Fastlane, Tuist, GHA, TestFlight, Localazy
 
+#### 📣 You can hear me
+
+* [Porozmawiajmy o IT](https://porozmawiajmyoit.pl/poit-038-programowanie-na-platforme-ios/) - 2019
 
 <!--
 **marcinbiedawi/marcinbiedawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
